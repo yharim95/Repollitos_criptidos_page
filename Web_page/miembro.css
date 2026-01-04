@@ -1,0 +1,167 @@
+body{
+    font-family: nunito;
+    margin: 0;
+    background-image: url(https://i.redd.it/o3au8qvgb1ag1.png);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+  
+}
+body::first-letter{
+  text-transform: uppercase;
+}
+a:hover {
+  text-decoration: none;
+  color: #260188;
+}
+.featured_members{
+  display: inline-block;
+  margin: 10px;
+   background-color: #C3022Fcc;
+   text-align: center;
+  height: auto;
+  width: auto;
+  border-radius: 7px;
+  min-width: 100%;
+}
+.featured_members > a{
+    color: #02C396;
+    
+}
+a{
+  text-decoration: none;
+}
+img{
+width: 150px;
+height: 150px;
+margin: auto;
+border-radius: 50%;
+padding-top: 5px;
+}
+h4{
+  text-align: center;
+}
+header{
+  font-size: 15px;
+  display: block;
+  min-height: 250px;
+  width: 95%;
+}
+details{
+  margin: 10px;
+}
+footer{
+  margin: 15px;
+
+}
+.wtf{
+  font-family: "comic-sans";
+  background-color: #666;
+}
+.santi{
+  background-color: #C0F489;
+  font-family: "buffalo script";
+  height: auto;
+  width:auto;
+font-size: 15px;}
+  .Rey_Del_Helheim{
+    background-color: #c80000cc;
+  }
+  .Rey_Del_Helheim > a{
+    background-color: #666;
+  }
+h6{
+  font-size: 14px;
+}
+p{
+  padding: 3px;
+}
+.Angaric{
+  font-family: Times New Roman;
+  background-color: #000000cc;
+  color: #eee;
+}
+.cambia{
+  background-color: #e93375cc;
+ font-family: goudy;
+}
+#estadistica{
+  background-color: #0f4021cc;
+  font-family: agency ;
+  
+}
+strong{
+  color: #c80000;
+}
+.mantekilla{
+  background-color: #E7C729cc;
+}
+.kalamet{
+  font-family: "gothic";
+  background-color: #000000cc;
+  color: #eee;
+}
+.kivang{
+  background-color: #c90a0acc;
+  font-family: "Impact";
+}
+.Objective{
+  background-color: #4DF741cc;
+  font-family: "caveat";
+  font-size: 17px;
+}
+.zetsy{
+  background-color: #F741A7cc;
+  font-family: fancy;
+  font-size: 17px;
+}
+.yam{
+  background-color: #F1FC3Fcc;
+  font-family: colonna;
+}
+.fabyss{
+  background-color: #DBE827cc;
+  font-weight: bold;
+}
+.featured_members ::first-letter{
+  text-transform: uppercase;
+}
+.Draedon{
+  font-family: terraria;
+background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmeXBFyiraIgs74l_8EdIdnqZO-uITMBp9UQ&s) ; 
+ background-size: cover;
+ background-position: center;
+ color: #eee;
+}
+header, h3{
+  background-color: #02C396;
+  border-radius: 7px;
+  padding: 10px;
+  margin: 14px;
+}
+h1{
+ display: inline;
+}
+ 
+section{
+  padding: 0;
+  margin: 0;
+}
+.xd{
+    margin-top: 385px;
+}
+.asuka{
+    background-color: #6F3693cc;
+    font-family: "nunito";
+    font-weight: 700px;
+    font-style: italic;
+}
+.Ethavill{
+  background-color: #c80000cc;
+  font-family: Raybees;
+}
+.navegation{
+  text-align: center;
+  background-color: #02C396;
+  margin: 0 0 0 15px;
+}

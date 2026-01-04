@@ -1,0 +1,28 @@
+body{
+    font-family: "nunito";
+    background-image: url(https://preview.redd.it/feliz-17k-repollitos-v0-en6mau5fma8g1.jpeg?width=640&crop=smart&auto=webp&s=e442ee255ce96fb88a035c832bf5a9a6b512bfa8);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+img, h1, p, h2, details, summary{
+    border-top: 3px solid hsl(158, 93%, 65%);
+    background-color: #C0F9EF;
+}
+details{
+    margin: 15px;
+    
+}
+.icon{
+    border: 2px solid #C0F9EF;
+    border-radius: 50%;
+    display: inline;
+}
+h1{
+    display: block;
+}
+.xd{
+    margin-top: 385px;
+}

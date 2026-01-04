@@ -1,0 +1,77 @@
+@font-face {
+    font-family: "terraria";
+    src: url(Las-Fonts/Andy\ Bold.ttf) format("truetype");
+}
+@font-face{
+    font-family: "nunito";
+    src: url(Las-Fonts/Nunito-Black.ttf) format("truetype");
+    font-weight: 400px;
+}
+@font-face {
+    font-family: "nunito";
+    src: url(Las-Fonts/Nunito-LightItalic.ttf) format("truetype");
+    font-style: italic;
+    font-weight: 200px;
+}
+@font-face {
+    font-family: "nunito";
+    src: url(Las-Fonts/Nunito-BlackItalic.ttf) format("truetype");
+    font-style: italic;
+    font-weight: 400px;
+}
+@font-face {
+    font-family: "nunito";
+    src: url(Las-Fonts/Nunito-Light.ttf) format("truetype");
+    font-weight: 200px;
+}
+@font-face {
+    font-family: "nunito";
+    src: url(Las-Fonts/Nunito-Bold.ttf) format("truetype");
+    font-weight: 700px;
+}
+@font-face {
+    font-family: "nunito";
+    src: url(Las-Fonts/Nunito-BoldItalic.ttf) format("truetype");
+    font-weight: 700px;
+    font-style: italic;
+}
+@font-face {
+    font-family: minecraft;
+    src: url(Las-Fonts/Minecrafter.Reg.ttf) format("truetype");
+}
+@font-face {
+    font-family: 'Times New Roman';
+    src: url(Las-Fonts/times.ttf) format("truetype");
+}
+@font-face {
+    font-family: "agency";
+    src: url(Las-Fonts/AGENCYB.TTF)format("truetype");
+}
+@font-face {
+    font-family: goudy;
+    src: url(Las-Fonts/OPTIGoudy-Text.otf) format("opentype");
+}
+@font-face {
+    font-family: "buffalo script";
+    src: url(Las-Fonts/BuffaloScript-Regular.otf) format("opentype");
+}
+@font-face {
+    font-family: "gothic";
+    src: url(Las-Fonts/OldLondon.ttf) format("truetype");
+}
+@font-face {
+    font-family: "caveat";
+    src: url(Las-Fonts/Caveat-VariableFont_wght.ttf) format("truetype");
+}
+@font-face {
+    font-family: "fancy";
+    src: url(Las-Fonts/FancyCardText.ttf) format("truetype");
+}
+@font-face {
+    font-family: "colonna";
+    src: url(Las-Fonts/COLONNA.TTF) format("truetype");
+}
+@font-face {
+    font-family: "Raybees";
+    src: url(Las-Fonts/Raybees-Regular.otf) format("opentype");
+}
