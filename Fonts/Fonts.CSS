@@ -85,11 +85,12 @@
     src: url(Las-Fonts/ITC\ Bauhaus\ Heavy\ Regular.otf) format("opentype");
 }
 @font-face {
-    font-family: "comic sans";
-    src: url(Las-Fonts/COMIC.ttf) format("truetype");
+    font-family: "comic-sans";
+    src: url(Las-Fonts/comic.ttf) format("truetype");
 }
 @font-face {
     font-family: "DejaVu Sans Mono";
     src: url(Las-Fonts/DejaVuSansMono-BoldOblique.ttf) format("truetype");
 }
+
 
