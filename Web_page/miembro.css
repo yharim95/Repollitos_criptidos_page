@@ -163,5 +163,51 @@ section{
 .navegation{
   text-align: center;
   background-color: #02C396;
-  margin: 0 0 0 15px;
+  margin: auto;
+}
+.Alguien{
+  font-family: roboto;
+  background-color: #666666cc;
+}
+.Fire{
+  background-color: #ff0000cc;
+  font-family: Bauhaus ITC;
+}
+.Fire > img{
+  border: 2px solid #222;
+}
+ul{
+  list-style-type: none;
+  padding: 0;
+  margin: 15px; 
+  background-color: #02C396cc;
+}
+h3{
+  text-align: center;
+  background-color: #02C396cc;
+}
+.Yharim95{
+  background-image: url(https://pbs.twimg.com/media/DTJ-IOdVQAA_2pU?format=jpg&name=small);
+  font-family: terraria;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.Yharim95 > img{
+  border: 1.7px solid #222;
+}
+.Working{
+  background-color: #FCD63Ecc;
+  font-family: "comic sans";
+}
+.calatayud{
+  background-color: #FFFBBAcc;
+  font-family: "comic sans";
+}
+.Portaler{
+  background-color: #74C319cc;
+  font-family: "DejaVu Sans Mono";
+}
+.Rozza{
+  background-color: #FD84A4cc;
 }
