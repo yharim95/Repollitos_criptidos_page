@@ -55,17 +55,17 @@ footer{
 
 }
 .wtf{
-  font-family: "comic-sans";
-  background-color: #66656699;
+  font-family: "comic sans";
+  background-color: #666566ee;
 }
 .santi{
-  background-color: #C0F48999;
+  background-color: #C0F489ee;
   font-family: "buffalo script";
   height: auto;
   width:auto;
 font-size: 15px;}
   .Rey_Del_Helheim{
-    background-color: #c8000099;
+    background-color: #c80000ee;
   }
 h6{
   font-size: 14px;
@@ -75,15 +75,15 @@ p{
 }
 .Angaric{
   font-family: Times New Roman;
-  background-color: #00000099;
+  background-color: #000000ee;
   color: #eee;
 }
 .cambia{
-  background-color: #e9337599;
+  background-color: #e93375ee;
  font-family: goudy;
 }
 #estadistica{
-  background-color: #0f402199;
+  background-color: #0f4021ee;
   font-family: agency ;
   
 }
@@ -91,33 +91,33 @@ strong{
   color: #c80000;
 }
 .mantekilla{
-  background-color: #E7C72999;
+  background-color: #E7C729ee;
 }
 .kalamet{
   font-family: "gothic";
-  background-color: #00000099;
+  background-color: #000000ee;
   color: #eee;
 }
 .kivang{
-  background-color: #c90a0a99;
+  background-color: #c90a0aee;
   font-family: "Impact";
 }
 .Objective{
-  background-color: #4DF74199;
+  background-color: #4DF741ee;
   font-family: "caveat";
   font-size: 17px;
 }
 .zetsy{
-  background-color: #F741A799;
+  background-color: #F741A7ee;
   font-family: fancy;
   font-size: 17px;
 }
 .yam{
-  background-color: #F1FC3F99;
+  background-color: #F1FC3Fee;
   font-family: colonna;
 }
 .fabyss{
-  background-color: #DBE82799;
+  background-color: #DBE827ee;
   font-weight: bold;
 }
 .featured_members ::first-letter{
@@ -148,13 +148,13 @@ section{
     margin-top: 385px;
 }
 .asuka{
-    background-color: #6F369399;
+    background-color: #6F3693ee;
     font-family: "nunito";
     font-weight: 700px;
     font-style: italic;
 }
 .Ethavill{
-  background-color: #c8000099;
+  background-color: #c80000ee;
   font-family: Raybees;
 }
 .navegation{
@@ -164,10 +164,10 @@ section{
 }
 .Alguien{
   font-family: roboto;
-  background-color: #66666699;
+  background-color: #666666ee;
 }
 .Fire{
-  background-color: #ff000099;
+  background-color: #ff0000ee;
   font-family: Bauhaus ITC;
 }
 .Fire > img{
@@ -194,18 +194,19 @@ h3{
   border: 1.7px solid #222;
 }
 .Working{
-  background-color: #FCD63E99;
+  background-color: #FCD63Eee;
   font-family: "comic sans";
 }
 .calatayud{
-  background-color: #FFFBBA99;
+  background-color: #FFFBBAee;
   font-family: "comic sans";
 }
 .Portaler{
-  background-color: #74C31999;
+  background-color: #74C319ee;
   font-family: "DejaVu Sans Mono";
 }
 .Rozza{
-  background-color: #FD84A499;
+  background-color: #FD84A4ee;
 }
+
 
