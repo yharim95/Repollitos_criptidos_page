@@ -85,13 +85,14 @@
     src: url(Las-Fonts/ITC\ Bauhaus\ Heavy\ Regular.otf) format("opentype");
 }
 @font-face {
-    font-family: "comic sans";
+    font-family: "undertale";
     src: url(Las-Fonts/Comic\ Sans\ MS.ttf) format("truetype");
 }
 @font-face {
     font-family: "DejaVu Sans Mono";
     src: url(Las-Fonts/DejaVuSansMono-BoldOblique.ttf) format("truetype");
 }
+
 
 
 
