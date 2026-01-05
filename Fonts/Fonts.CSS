@@ -90,11 +90,8 @@
 }
 @font-face {
     font-family: "DejaVu Sans Mono";
-    src: url(Las-Fonts/DejaVuSansMono-BoldOblique.ttf) format("truetype");
+    src: url(Las-Fonts/DejaVuSansMono-BoldOblique.ttf) format("truetype");}
+@font-face {
+    font-family: "Arial";
+    src: url(Las-Fonts/ARIAL.TTF) format("truetype");
 }
-
-
-
-
-
-
