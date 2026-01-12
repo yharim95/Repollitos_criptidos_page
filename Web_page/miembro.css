@@ -177,7 +177,6 @@ ul{
   list-style-type: none;
   padding: 0;
   margin: 15px; 
-  background-color: #02C396cc;
 }
 h3{
   text-align: center;
@@ -269,4 +268,5 @@ h3{
         display: flex;
     }
 }
+
 
