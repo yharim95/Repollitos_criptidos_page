@@ -95,3 +95,7 @@
     font-family: "Arial";
     src: url(Las-Fonts/ARIAL.TTF) format("truetype");
 }
+@font-face {
+    font-family: "pixel";
+    src: url(Las-Fonts/Minecraft.ttf) format("truetype");
+}
