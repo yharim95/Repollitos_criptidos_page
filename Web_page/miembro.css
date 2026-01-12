@@ -268,5 +268,20 @@ h3{
         display: flex;
     }
 }
+.fabio{
+  font-family: Helvetica;
+  background-color: #260188ee;
+}
+.dagr{
+  background-color: #753ECEee;
+  font-family: "gothic";
+}
+.batchet{
+ background-color: #f00;
+ font-family: pixel;
+}
+.Ornery{
+  background-color: #2E9BD1;
+}
 
 
