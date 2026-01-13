@@ -16,7 +16,7 @@ details{
     border-radius: 50%;
     position: relative;
     float: left;
-    z-index: 1;
+    z-index: -1;
 }
 a{
     text-decoration: none; 
@@ -78,6 +78,7 @@ a{
         display: flex;
     }
 } 
+
 
 
 
