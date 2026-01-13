@@ -7,7 +7,7 @@ body{
     margin: 0;
     padding: 0;
 }
-img, h1, p, h2, details, summary{
+h1, p, h2, details, summary{
     border-top: 3px solid hsl(158, 93%, 65%);
     background-color: #C0F9EF;
 }
@@ -15,7 +15,6 @@ details{
     margin: 15px;
 }
 .icon{
-    border: 2px solid #C0F9EF;
     border-radius: 50%;
     position: relative;
     float: left;
@@ -81,3 +80,4 @@ a{
         display: flex;
     }
 } 
+
