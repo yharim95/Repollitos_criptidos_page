@@ -4,7 +4,7 @@ body{
     margin: 0;
     padding: 0;
 }
-h1, p, h2, details, summary{
+p, details, summary{
     border-top: 3px solid hsl(158, 93%, 65%);
     background-color: #C0F9EF;
     z-index: -2;
@@ -78,6 +78,7 @@ a{
         display: flex;
     }
 } 
+
 
 
 
