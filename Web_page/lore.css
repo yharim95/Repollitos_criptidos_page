@@ -1,0 +1,119 @@
+body{
+    font-family: nunito;
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #0C323B;
+    padding: 0.5em 1em;
+    color: white;
+}
+.logo{
+    margin: 0;
+}
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 1em;
+    margin: 0;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: white;
+    transition: color 0.3s;
+}
+
+.nav-links a:hover {
+    color: #00bcd4;
+}
+
+.hamburger {
+    display: none;
+    flex-direction: column;
+    gap: 5px;
+    cursor: pointer;
+}
+
+.hamburger span {
+    width: 25px;
+    height: 3px;
+    background-color: #00bcd4;
+}
+@media (max-width: 768px) {
+    .nav-links {
+        display: none;
+        flex-direction: column;
+        background-color: #333;
+        position: absolute;
+        top: 50px;
+        right: 0;
+        width: 100%;
+    }
+
+    .nav-links.active {
+        display: flex;
+    }
+
+    .hamburger {
+        display: flex;
+    }
+}
+.parte2, .parte3, .parte3-1, .parte3-2, .parte3-3, .parte3-4, .inicios, .parte4{
+  color: #5A2D0C;
+  background-color: #FFEBCD;
+  padding: 20px;
+  font-weight: bold;
+  text-align: start;
+  margin-top: 15px;
+}
+img{
+position: relative;
+z-index: 2;
+float: right;
+  margin-right: 20px;
+  margin-top: 55px;
+  width: 250px;
+}
+.enfasis{
+    font-style: italic;
+}
+.inicios{
+    background-color: #E6FCFB;
+    color: #0C6964;
+}
+.parte2{
+    background-color: #96FF8A;
+    color: #0C7500;
+}
+.parte3{
+    background-color: #B98AFF;
+    color: #4100A3;
+}
+.parte3-1{
+    background-color: #FFF8B8;
+    color: #A39300;
+}
+.parte3-2{
+    background-color: #FD8BB3;
+    color: #A1023A;
+}
+.parte3-3{
+    background-color: #C2F5DF;
+    color: #178C59;
+}
+.parte3-4{
+    background-color: #FCC6BB;
+    color: #9C2007;
+}
+.parte4{
+    background-color: #BCD1FB;
+    color: #0A3A99;
+}
+body{
+    background-image: url(https://preview.redd.it/chicos-voy-a-necesitar-el-lore-del-sub-para-la-siguiente-v0-7j2vxjvd04dg1.jpeg?width=1920&format=pjpg&auto=webp&s=57f9f6cb834f8b4fd3589c3fc97c549b9a9a433e);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
