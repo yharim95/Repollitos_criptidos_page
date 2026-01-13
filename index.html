@@ -11,6 +11,21 @@
     <link rel="icon" href="Imgs/EfmYCTX_d.webp" type="image/png">
 </head>
 <body>
+          <nav class="navbar">
+            <div class="logo">Repollitos_Criptidos</div>
+            <ul class="nav-links">
+            <li><a href="Web_page/lore.html">Lore</a></li>
+                <li><a href="Web_page/miembros.html">Miembros Destacados</a></li>
+                <li><a href="#">Sobre el Creador</a></li>
+                <li><a href="https://www.reddit.com/r/repollitos_criptidos/">Reddit</a></li>
+                <li><a href="https://discord.com/invite/HWCz4DVyfX">Discord</a></li>
+        </ul>
+        </nav>
+   <div class="hamburger">
+    <span></span>
+    <span></span>
+    <span></span>
+    </div>
     <header>
     <img src="../Imgs/communityIcon_dmcse374qn2g1.webp" alt="" class="icon">
     <h1 class="">Repollitos_Criptidos</h1>
@@ -42,12 +57,14 @@ No debemos olvidar que del otro lado de la pantalla hay una persona, por favor n
 
 <p>En caso de no seguir las reglas os arriesgáis a un baneo de entre 3 días hasta uno permanente, dependiendo de la severidad de vuestras acciones. Por favor no dudéis en informar a la moderación usando el Mod Mail, el sistema de reportes o usando DM's.</p>
 </header>
-<nav>
-    <ul>
-        <li ><a href="Web_page/miembros.html">Mienbros Destacados</a></li>
-        <li title="proximamente"><a href="">lore</a></li>
-        <li ><a href="" title="proximamente">miembros muertos</a></li>
-    </ul>
-</nav>
+<script>
+    const hamburger = document.querySelector('.hamburger');
+    const navLinks = document.querySelector('.nav-links');
+
+    hamburger.addEventListener('click', () => {
+        navLinks.classList.toggle('active');
+    });
+    </script>
 </body>
+
 </html>
