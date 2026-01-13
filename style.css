@@ -13,20 +13,71 @@ img, h1, p, h2, details, summary{
 }
 details{
     margin: 15px;
-    
 }
 .icon{
     border: 2px solid #C0F9EF;
     border-radius: 50%;
-    display: inline;
-}
-h1{
-    display: block;
-}
-.xd{
-    margin-top: 385px;
+    position: relative;
+    float: left;
+    z-index: -1;
 }
 a{
     text-decoration: none; 
-    background-color: #C0F9EF;
 }
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #0C323B;
+    padding: 0.5em 1em;
+    color: white;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 1em;
+    margin: 0;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: white;
+    transition: color 0.3s;
+}
+
+.nav-links a:hover {
+    color: #00bcd4;
+}
+
+.hamburger {
+    display: none;
+    flex-direction: column;
+    gap: 5px;
+    cursor: pointer;
+}
+
+.hamburger span {
+    width: 25px;
+    height: 3px;
+    background-color: #00bcd4;
+}
+@media (max-width: 768px) {
+    .nav-links {
+        display: none;
+        flex-direction: column;
+        background-color: #333;
+        position: absolute;
+        top: 50px;
+        right: 0;
+        width: 100%;
+    }
+
+    .nav-links.active {
+        display: flex;
+    }
+
+    .hamburger {
+        display: flex;
+    }
+} 
