@@ -95,8 +95,11 @@ strong{
 }
 .kalamet{
   font-family: "gothic";
-  background-color: #000000ee;
+  background-image: url(../Imgs/kalamet.webp);
   color: #eee;
+  border: 2px solid #000e;
+  background-position: center;
+  background-size: cover;
 }
 .kivang{
   background-color: #c90a0aee;
@@ -287,6 +290,7 @@ h3{
   background-color: #666e;
   font-style: italic;
 }
+
 
 
 
