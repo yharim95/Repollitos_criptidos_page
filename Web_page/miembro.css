@@ -101,6 +101,9 @@ strong{
   background-position: center;
   background-size: cover;
 }
+.kalamet > p{
+  background-color: #333;
+}
 .kivang{
   background-color: #c90a0aee;
   font-family: "Impact";
@@ -290,6 +293,7 @@ h3{
   background-color: #666e;
   font-style: italic;
 }
+
 
 
 
