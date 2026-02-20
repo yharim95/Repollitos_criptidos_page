@@ -298,15 +298,14 @@ h3{
   background-color: #D921AEee;
 }
 .riel{
-  background-image: url(https://preview.redd.it/users-para-la-web-page-comenten-su-usuario-foto-de-perfil-v0-zkualotl3jkg1.jpeg?width=320&crop=smart&auto=webp&s=996ca849fa51704e8f1fea57aacf20809e15572c);
-background-position: center;
-background-repeat: no-repeat;
-background-attachment: fixed;
+   background-image: url(https://preview.redd.it/users-para-la-web-page-comenten-su-usuario-foto-de-perfil-v0-zkualotl3jkg1.jpeg?width=320&crop=smart&auto=webp&s=996ca849fa51704e8f1fea57aacf20809e15572c) no-repeat center/cover
 }
 .black{
   color: #DB1212;
-  background: url(https://preview.redd.it/users-para-la-web-page-comenten-su-usuario-foto-de-perfil-v0-4u35faneqjkg1.jpeg?width=320&crop=smart&auto=webp&s=5489e7087486df522830a07faa26678cc510b918) no-repeat center/cover fixed;
+  background: url(https://preview.redd.it/users-para-la-web-page-comenten-su-usuario-foto-de-perfil-v0-4u35faneqjkg1.jpeg?width=320&crop=smart&auto=webp&s=5489e7087486df522830a07faa26678cc510b918) no-repeat center/cover
+    ;
 }
 .diligent{
-  background-color: #DBC712;
+  background-color: #DBC712ee;
 }
+
