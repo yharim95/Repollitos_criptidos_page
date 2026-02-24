@@ -311,5 +311,27 @@ h3{
 .diligent{
   background-color: #DBC712ee;
 }
-
-
+.sad{
+  color: #00bcd4;
+}
+.len{
+  background-color: #FFC0CB;
+  color: #D12EC1;
+}
+.ky{
+  color: #00bcd4;
+  background: url(https://preview.redd.it/users-para-la-web-page-comenten-su-usuario-foto-de-perfil-v0-imexy8ti3okg1.png?width=916&format=png&auto=webp&s=d1ac3329bfdee5b1239124a290aec556ffdbaf6f) no-repeat center/cover;
+}
+.axis{
+  background: url(https://preview.redd.it/users-para-la-web-page-comenten-su-usuario-foto-de-perfil-v0-jk67slr5dokg1.jpeg?width=320&crop=smart&auto=webp&s=e6a5201210c2bc8b0ec99e108194042e10ee7c0e) no-repeat center/cover
+}
+.axis > img{
+  border: 3px solid #000;
+}
+.shanpu{
+  background: url(https://preview.redd.it/users-para-la-web-page-comenten-su-usuario-foto-de-perfil-v0-9jn3bmdmapkg1.png?width=320&crop=smart&auto=webp&s=c75d4cfa130e3584f866f02310d2ef57edc6b577) no-repeat center/cover;
+  color: #D12EC1;
+}
+.franco{
+ background: url(https://preview.redd.it/users-para-la-web-page-comenten-su-usuario-foto-de-perfil-v0-rdeboid48qkg1.jpeg?width=320&crop=smart&auto=webp&s=6cd475762f04b8189b11a7b2d033528dcaaae08e) no-repeat center/cover; 
+}
