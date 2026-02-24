@@ -17,7 +17,7 @@ a:hover {
 .featured_members{
   display: inline-block;
   margin: 10px;
-   background-color: #C3022Fcc;
+   background-color: #000e;
    text-align: center;
   height: auto;
   width: auto;
@@ -335,3 +335,4 @@ h3{
 .franco{
  background: url(https://preview.redd.it/users-para-la-web-page-comenten-su-usuario-foto-de-perfil-v0-rdeboid48qkg1.jpeg?width=320&crop=smart&auto=webp&s=6cd475762f04b8189b11a7b2d033528dcaaae08e) no-repeat center/cover; 
 }
+
